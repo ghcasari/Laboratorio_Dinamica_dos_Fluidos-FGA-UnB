@@ -46,7 +46,7 @@ Inicialmente, cada grupo deverá escolher um tema para o experimento. Temas pode
 -	Vorticidade
 -	Efeito Magnus
 -	Efeito de Bernoulli
--  Tubo Venturi
+-   Tubo Venturi
 -	Placa de Orifício
 -	Perda de Carga
 -	Controle de Camada Limite
@@ -79,7 +79,9 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 3.	Execução:
 
 Nesta etapa, o experimento deverá ser montado e executado. A montagem e execução do experimento deverão ser apresentados nesta etapa.
-O relatório desta etapa deverá ser entregue até o dia 04/11/2018, em um relatório de no máximo duas páginas a ser enviado via MOODLE contendo os seguintes tópicos:
+
+O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 04/11/2018**, contendo os seguintes tópicos:
+
 - Integrantes do grupo;
 - Divisão de tarefas, conforme descrito na etapa 2. Se houver mudança em relação à etapa 2, uma justificativa deverá ser apresentada;
 - Descrição dos procedimentos realizados, onde deverão ser apresentados:
@@ -89,14 +91,18 @@ O relatório desta etapa deverá ser entregue até o dia 04/11/2018, em um relat
   
   
 OBSERVAÇÕES: 
-•	Os grupos que desejarem usar o laboratório de termofluidos para a montagem e execução do experimento poderão fazê-lo nos horários de sexta-feira a partir de 17/08/2018. 
-•	O grupo deverá avisar o professor com antecedência, e poderá ir ao laboratório o número de vezes necessária para a completa execução do experimento;
-•	Será permitido um máximo de quatro grupos por dia;
+-	Os grupos que desejarem usar o laboratório de termofluidos para a montagem e execução do experimento poderão fazê-lo nos horários de sexta-feira a partir de **17/08/2018**. 
+-	O grupo deverá avisar o professor com antecedência, e poderá ir ao laboratório o número de vezes necessária para a completa execução do experimento;
+-	Será permitido um máximo de quatro grupos por dia;
+
 4.	Análise e conclusão:
-Nesta etapa, os dados medidos na etapa 3 deverão ser analisados e o experimento deverá ser concluído. A análise de dados deverá ser apresentada nesta etapa
-O relatório desta etapa deverá ser entregue até o dia 18/11/2018, em um relatório de no máximo quatro páginas a ser enviado via MOODLE contendo os seguintes tópicos:
-•	Integrantes do grupo;
-•	Apresentação dos dados medidos no experimento com seu respectivo erro experimental;
-•	Apresentação de gráficos e sua respectiva análise;
-•	Comparação dos resultados com a teoria envolvida;
-•	Conclusões do experimento;
+
+Nesta etapa, os dados medidos na etapa 3 deverão ser analisados e o experimento deverá ser concluído. A análise de dados deverá ser apresentada nesta etapa.
+
+O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 18/11/2018**, contendo os seguintes tópicos:
+
+-	Integrantes do grupo;
+-	Apresentação dos dados medidos no experimento com seu respectivo erro experimental;
+-	Apresentação de gráficos e sua respectiva análise;
+-	Comparação dos resultados com a teoria envolvida;
+-	Conclusões do experimento;
