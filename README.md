@@ -16,7 +16,7 @@ III. Alternativamente, os grupos poderão montar seu experimento usando sucata o
 
 IV. Atrasos na entrega das etapas e a falta de algum tópico no relatório de cada etapa acarretará em nota zero na etapa.
 
-V. O relatório de cada etapa deverá ser entregue digitado em formato Word ou Latex, de acordo com a descrição colocada neste termo.
+V. O relatório de cada etapa deverá ser digitado no documento de cada grupo presente neste repositório, que conterá os tópicos a serem respondidos.
 
 O laboratório consistirá de quatro etapas, que valerão 25% da nota do laboratório cada. Estas etapas são:
 
