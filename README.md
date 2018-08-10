@@ -37,7 +37,7 @@ O laboratório consistirá de quatro etapas, que valerão 25% da nota do laborat
 
 
 
-1.	Início:
+### 1.	Início:
 
 A primeira etapa deverá conter os objetivos do experimento escolhido. Com as definições dos objetivos, o escopo do experimento também deverá ser definido.
 Inicialmente, cada grupo deverá escolher um tema para o experimento. Temas poderão ser repetidos entre grupos, mas é vedada a repetição de experimentos. Os temas disponíveis são:
@@ -60,7 +60,7 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 -	Objetivo do experimento – O que será medido ou determinado no experimento;
 -	Escopo do experimento – Estabelecimento de tarefas mínimas para cumprir os objetivos do experimento;
 
-2.	Planejamento e Preparação:
+### 2.	Planejamento e Preparação:
 
 Nesta etapa, o experimento deverá ser planejado. A teoria envolvida deverá ser apresentada e os procedimentos experimentais deverão ser planejados nesta etapa.
 
@@ -76,7 +76,7 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 - Resultados esperados;
 
 
-3.	Execução:
+### 3.	Execução:
 
 Nesta etapa, o experimento deverá ser montado e executado. A montagem e execução do experimento deverão ser apresentados nesta etapa.
 
@@ -95,7 +95,7 @@ OBSERVAÇÕES:
 -	O grupo deverá avisar o professor com antecedência, e poderá ir ao laboratório o número de vezes necessária para a completa execução do experimento;
 -	Será permitido um máximo de quatro grupos por dia;
 
-4.	Análise e conclusão:
+### 4.	Análise e conclusão:
 
 Nesta etapa, os dados medidos na etapa 3 deverão ser analisados e o experimento deverá ser concluído. A análise de dados deverá ser apresentada nesta etapa.
 
