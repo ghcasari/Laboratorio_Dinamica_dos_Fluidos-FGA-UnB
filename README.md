@@ -46,7 +46,7 @@ Inicialmente, cada grupo deverá escolher um tema para o experimento. Temas pode
 -	Vorticidade
 -	Efeito Magnus
 -	Efeito de Bernoulli
-- Tubo Venturi
+-  Tubo Venturi
 -	Placa de Orifício
 -	Perda de Carga
 -	Controle de Camada Limite
@@ -66,14 +66,14 @@ Nesta etapa, o experimento deverá ser planejado. A teoria envolvida deverá ser
 
 O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 26/08/2018**, contendo os seguintes tópicos:
 
--	Identificação do grupo;
--	Teoria do experimento;
--	Procedimentos experimentais, onde as seguintes informações deverão ser colocadas:
-   - Estimativa do tempo necessário para a montagem e execução do procedimento;
-   - Membro do grupo responsável pelo procedimento de montagem e execução;
-   - Cronograma estimado para a montagem e realização do experimento completo;
--	Determinação dos dados a serem medidos e/ou calculados;
--	Resultados esperados;
+- Identificação do grupo;
+- Teoria do experimento;
+- Procedimentos experimentais, onde as seguintes informações deverão ser colocadas:
+    - Estimativa do tempo necessário para a montagem e execução do procedimento;
+    - Membro do grupo responsável pelo procedimento de montagem e execução;
+    - Cronograma estimado para a montagem e realização do experimento completo;
+- Determinação dos dados a serem medidos e/ou calculados;
+- Resultados esperados;
 
 
 3.	Execução:
