@@ -18,29 +18,44 @@ IV. Atrasos na entrega das etapas e a falta de algum tópico no relatório de ca
 
 V. O relatório de cada etapa deverá ser digitado no documento de cada grupo presente neste repositório, que conterá os tópicos a serem respondidos.
 
+Cada etapa está subdividida em tarefas que o grupo deverá executar. Os resultados deverão ser registrados no próprio arquivo README, usando a ferramenta de edição do GitHub. **Não serão aceitas outras formas para envio dos projetos!**
+
+Abaixo segue como colocar equações e imagens:
+
+
+Exemplo para anexar uma imagem (A imagem deve ser enviada para a pasta do grupo via *upload*):
+
+![Teste de legenda de imagem](0902wh_zu3_BR.jpg)
+
+
+Para escrever as equações usando o formato do LateX use [este link](https://www.codecogs.com/latex/eqneditor.php). A equação deverá ser gerada no site, salva em formato .gif e enviada para o repositório para ser anexada como imagem, conforme exemplo abaixo:
+
+![Teste de legenda de imagem 2](CodeCogsEqn.gif)
+
+
 O laboratório consistirá de quatro etapas, que valerão 25% da nota do laboratório cada. Estas etapas são:
 
 
 
 1.	Início:
 A primeira etapa deverá conter os objetivos do experimento escolhido. Com as definições dos objetivos, o escopo do experimento também deverá ser definido.
-Inicialmente, cada grupo deverá escolher um tema para o experimento. Os temas disponíveis são:
-•	Linhas de trajetória de um escoamento fluido
-•	Linhas de emissão de um escoamento fluido
-•	Vorticidade
-•	Efeito Magnus
-•	Efeito de Bernoulli
-•	Tubo Venturi
-•	Placa de Orifício
-•	Perda de Carga
-•	Controle de Camada Limite
-•	Turbulência em Fluidos
-•	Experimentos em túnel de vento
-O relatório desta etapa deverá ser entregue no dia 19/08/2018, em um relatório de uma página a ser enviado via MOODLE contendo os seguintes tópicos:
-•	Integrantes do grupo;
-•	Tema escolhido;
-•	Objetivo do experimento – O que será medido ou determinado no experimento;
-•	Escopo do experimento – Estabelecimento de tarefas mínimas para cumprir os objetivos do experimento;
+Inicialmente, cada grupo deverá escolher um tema para o experimento. Temas poderão ser repetidos entre grupos, mas é vedada a repetição de experimentos. Os temas disponíveis são:
+-	Linhas de trajetória de um escoamento fluido
+-	Linhas de emissão de um escoamento fluido
+-	Vorticidade
+-	Efeito Magnus
+-	Efeito de Bernoulli
+- Tubo Venturi
+-	Placa de Orifício
+-	Perda de Carga
+-	Controle de Camada Limite
+-	Turbulência em Fluidos
+-	Experimentos em túnel de vento
+O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 19/08/2018**, contendo os seguintes tópicos:
+-	Integrantes do grupo;
+-	Tema escolhido;
+-	Objetivo do experimento – O que será medido ou determinado no experimento;
+-	Escopo do experimento – Estabelecimento de tarefas mínimas para cumprir os objetivos do experimento;
 2.	Planejamento e Preparação:
 Nesta etapa, o experimento deverá ser planejado. A teoria envolvida deverá ser apresentada e os procedimentos experimentais deverão ser planejados nesta etapa.
 O relatório desta etapa deverá ser entregue até o dia 26/08/2018, em um relatório de no máximo duas páginas a ser enviado via MOODLE contendo os seguintes tópicos:
