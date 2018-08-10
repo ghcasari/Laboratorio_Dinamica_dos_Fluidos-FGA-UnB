@@ -2,7 +2,7 @@
 
 Este documento deve orientar a elaboração e execução de um experimento que visa atender parte dos requerimentos da disciplina de Dinâmica dos Fluidos. O objetivo do relatório é realizar a aplicação de instrumentos básicos de gestão de projetos para a elaboração, planejamento, preparação e execução de um experimento de Mecânica dos Fluidos.
 
-Esse Termo de Referência não pretende esgotar todas as questões relativas à atividade. Complementações podem ser feitas além do requerimento mínimo de conteúdo. Mas os itens mínimos devem ser preenchidos.
+Esse documento não pretende esgotar todas as questões relativas à atividade. Complementações podem ser feitas além do requerimento mínimo de conteúdo. Mas os itens mínimos devem ser preenchidos.
 
 Este trabalho deverá ser feito em grupos de até três pessoas. Grupos com número de integrantes diferente de três poderão ser formados a critério única e exclusivamente do professor.
 
