@@ -9,9 +9,13 @@ Este trabalho deverá ser feito em grupos de até três pessoas. Grupos com núm
 Observações:
 
 I. É vedada a repetição de experimentos, ou seja, dois grupos não poderão realizar o mesmo experimento. A ocorrência de cópias ou repetição de experimentos acarretarão em nota zero no laboratório.
+
 II. Recomenda-se a utilização das bancadas do laboratório de termofluidos para os experimentos. Caso o grupo escolha usar as bancadas, a escolha deverá estar explicitada claramente na etapa de início.
+
 III. Alternativamente, os grupos poderão montar seu experimento usando sucata ou demais materiais que o grupo tenha acesso. Caso o grupo escolha montar seu experimento, a escolha deverá estar explicitada claramente na etapa de início.
+
 IV. Atrasos na entrega das etapas e a falta de algum tópico no relatório de cada etapa acarretará em nota zero na etapa.
+
 V. O relatório de cada etapa deverá ser entregue digitado em formato Word ou Latex, de acordo com a descrição colocada neste termo.
 
 O laboratório consistirá de quatro etapas, que valerão 25% da nota do laboratório cada. Estas etapas são:
