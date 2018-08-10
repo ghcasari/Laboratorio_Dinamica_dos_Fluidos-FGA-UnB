@@ -80,12 +80,12 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 Nesta etapa, o experimento deverá ser montado e executado. A montagem e execução do experimento deverão ser apresentados nesta etapa.
 O relatório desta etapa deverá ser entregue até o dia 04/11/2018, em um relatório de no máximo duas páginas a ser enviado via MOODLE contendo os seguintes tópicos:
--	Integrantes do grupo;
--	Divisão de tarefas, conforme descrito na etapa 2. Se houver mudança em relação à etapa 2, uma justificativa deverá ser apresentada;
--	Descrição dos procedimentos realizados, onde deverão ser apresentados:
-  -	Fotos do experimento montado;
-  -	Descrição de cada procedimento executado e justificativa, se houver diferença com a etapa 2;
-  -	Dados medidos;
+- Integrantes do grupo;
+- Divisão de tarefas, conforme descrito na etapa 2. Se houver mudança em relação à etapa 2, uma justificativa deverá ser apresentada;
+- Descrição dos procedimentos realizados, onde deverão ser apresentados:
+  - Fotos do experimento montado;
+  - Descrição de cada procedimento executado e justificativa, se houver diferença com a etapa 2;
+  - Dados medidos;
   
   
 OBSERVAÇÕES: 
