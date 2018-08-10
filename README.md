@@ -69,9 +69,9 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 -	Identificação do grupo;
 -	Teoria do experimento;
 -	Procedimentos experimentais, onde as seguintes informações deverão ser colocadas:
-  -	Estimativa do tempo necessário para a montagem e execução do procedimento;
-  -	Membro do grupo responsável pelo procedimento de montagem e execução;
-  -	Cronograma estimado para a montagem e realização do experimento completo;
+   - Estimativa do tempo necessário para a montagem e execução do procedimento;
+   - Membro do grupo responsável pelo procedimento de montagem e execução;
+   - Cronograma estimado para a montagem e realização do experimento completo;
 -	Determinação dos dados a serem medidos e/ou calculados;
 -	Resultados esperados;
 
