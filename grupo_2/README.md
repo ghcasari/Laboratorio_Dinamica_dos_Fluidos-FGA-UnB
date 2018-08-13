@@ -1,4 +1,4 @@
-# Relatório do Grupo 2:#
+# Relatório do Grupo 2: #
 
   - Richard da Silva Francisco de Souza - 14/0091793
   - Luiza Lorenna L. Lopes - 16/0135133
