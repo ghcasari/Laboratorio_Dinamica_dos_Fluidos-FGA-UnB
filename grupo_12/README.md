@@ -1,6 +1,6 @@
 # Relatório do Grupo 12: #
 
-  - Davi Matias Dutra da Silva - 120044871
+  - Davi Matias Dutra da Silva - 12/0044871
   - Fernando Alves de Castro - 15/0059141
   - Mayra Carolina Pinto de Souza - 17/0053059
 
