@@ -1,6 +1,5 @@
 # Relatório do Grupo 5: #
 
-  - Geyel Muller - 16/0029163
   - Julia Ribeiro - 16/0129001
   - Natalia Martimon - 16/0139643
 
