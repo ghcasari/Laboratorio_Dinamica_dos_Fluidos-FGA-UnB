@@ -3,7 +3,6 @@
   - Pedro Paulo de Souza Pereira - 12/0132737
   - Vinícius Tadeu Ciurlini - 16/0148103
   - Leonardo Julio Chagas Souza - 13/0143413
-  - Pedro Henrique de Sousa Santos - 15/0144342
 
 ### 1.	Início: ###
 
