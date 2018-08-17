@@ -1,7 +1,7 @@
 
 # Relatório do Grupo 1: #
 
-  - Felipe Caleffi Lavx - 16/0119545
+  - Felipe Caleffi Laux - 16/0119545
   - Erika Kamada Tomita - 16/0119120
   - Caio Augusto Chaves - 16/0114985
 
