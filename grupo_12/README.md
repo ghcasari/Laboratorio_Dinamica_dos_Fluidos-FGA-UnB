@@ -1,4 +1,4 @@
-# Relatório do Grupo 6: #
+# Relatório do Grupo 12: #
 
   - Davi Matias Dutra da Silva - 120044871
   - Fernando Alves de Castro - 15/0059141
