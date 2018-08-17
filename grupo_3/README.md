@@ -1,7 +1,7 @@
 # Relatório do Grupo 3: #
 
   - Vitor Rodrigues Rossi - 14/0066632
-  - Matheus Sino do Amaral - 14/0155457
+  - Matheus Lino do Amaral - 14/0155457
   - Danilo Marinho - 18/0136313
 
 ### 1.	Início: ###
