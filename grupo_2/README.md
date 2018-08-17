@@ -1,7 +1,7 @@
 # Relatório do Grupo 2: #
 
   - Richard da Silva Francisco de Souza - 14/0091793
-  - Luiza Lorenna L. Lopes - 16/0135133
+  - Luyza Lorenna L. Lopes - 16/0135133
   - Matheus de Avila Mariano - 16/0137896
 
 ### 1.	Início: ###
