@@ -1,5 +1,5 @@
 # Laboratorio Dinamica dos Fluidos
-asdfasd
+
 Este documento deve orientar a elaboração e execução de um experimento que visa atender parte dos requerimentos da disciplina de Dinâmica dos Fluidos. O objetivo do relatório é realizar a aplicação de instrumentos básicos de gestão de projetos para a elaboração, planejamento, preparação e execução de um experimento de Mecânica dos Fluidos.
 
 Esse documento não pretende esgotar todas as questões relativas à atividade. Complementações podem ser feitas além do requerimento mínimo de conteúdo. Mas os itens mínimos devem ser preenchidos.
