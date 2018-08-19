@@ -1,4 +1,4 @@
-# Relatório do Grupo 6: #
+# Relatório do Grupo 10: #
 
   - Thainá Rodrigues Fernandes - 14/0051724
   - Danyllo Wenceslau - 16/0117364
