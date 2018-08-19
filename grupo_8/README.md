@@ -1,4 +1,4 @@
-# Relatório do Grupo 6: #
+# Relatório do Grupo 8: #
 
   - Beatriz Carolina - 16/0002958
   - Gustavo Saraiva - 16/0050537
