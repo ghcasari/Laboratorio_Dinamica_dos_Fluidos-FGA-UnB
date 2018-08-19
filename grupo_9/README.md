@@ -1,4 +1,4 @@
-# Relatório do Grupo 6: #
+# Relatório do Grupo 9: #
 
   - Gabriel Casari - 13/0009091
   - Bruno Martins - 14/0017682
